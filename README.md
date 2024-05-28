@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td><a href="https://github.com/vathansilva/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut&theme=ambient_gradient" alt="Top Langs" />
     </a></td>
     <td><a href="https://github.com/vathansilva/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Anurag's GitHub stats" />
