@@ -1,6 +1,20 @@
 ![Banner](https://media.licdn.com/dms/image/D5616AQHL3odx-FtvSQ/profile-displaybackgroundimage-shrink_350_1400/0/1715419805770?e=1722470400&v=beta&t=gjG-bK6q4zlNfGWozrbDb7nfT4Gm9CO12zHQBFDgMMg)
 
-- 👋 Hi, I’m @VathanSilva
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .greeting {
+      text-align: center;
+      font-size: 24px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="greeting">👋 Hi, I’m @VathanSilva</div>
+</body>
+</html>
 - 👀 I’m interested in ICT and Electronics Development...
 - 🌱 I’m currently learning Electronics & Embedded Systems...
 - 💞️ I’m looking to collaborate on ICT and Electronics Development Site...
