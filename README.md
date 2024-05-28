@@ -12,16 +12,14 @@
 
 ## My Stats:
 
-<table>
-  <tr>
-    <td><a href="https://github.com/vathansilva/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=compact" alt="Top Langs" />
-    </a></td>
-    <td><a href="https://github.com/vathansilva/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Anurag's GitHub stats" />
-    </a></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/vathansilva/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=compact" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/vathansilva/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Anurag's GitHub stats" />
+  </a>
+</div>
 
 
 <!---
