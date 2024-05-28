@@ -3,9 +3,9 @@
 ### 👋 Hi, I’m @VathanSilva
 
 
-- 👀 I’m interested in ICT and Electronics Development...
-- 🌱 I’m currently learning Electronics & Embedded Systems...
-- 💞️ I’m looking to collaborate on ICT and Electronics Development Site...
+- 👀 I’m interested in App & Web development and IoT.
+- 🎓 Graduated in BSc Physical Science - ICT at the University of Sri Jeyawardenapura.
+- 💞️ I’m currently working as a Software Engineer.
 - 📫 How to reach me on https://www.linkedin.com/in/vathan-silva/
 - 📫 My website https://francissilva.vercel.app/
 - 📫 My Youtube channel https://www.youtube.com/channel/UCzWYas0cWXTT1YFgZQhLUyQ
