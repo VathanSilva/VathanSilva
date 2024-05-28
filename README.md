@@ -6,6 +6,8 @@
 - 📫 My website https://francissilva.vercel.app/
 - 📫 My Youtube channel https://www.youtube.com/channel/UCzWYas0cWXTT1YFgZQhLUyQ
 
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathansilva)](https://github.com/vathansilva/github-readme-stats)
+
 <!---
 VathanSilva/VathanSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
