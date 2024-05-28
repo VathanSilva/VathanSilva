@@ -12,7 +12,7 @@
 
 ## My Stats:
 
-<table>
+<table style="justify-content: center;">
   <tr>
     <td><a href="https://github.com/vathansilva/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut" alt="Top Langs" />
