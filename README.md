@@ -12,21 +12,22 @@
 
 ## My Stats:
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://github.com/vathansilva/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut&theme=ambient_gradient" alt="Top Langs" />
-  </a>
-  <a href="https://github.com/vathansilva/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Vathan's GitHub stats" />
-  </a>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub logo" width="100" />
-</div>
+<table>
+  <tr>
+    <td><a href="https://github.com/vathansilva/README.md">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut&theme=ambient_gradient" alt="Top Langs" />
+    </a></td>
+    <td><a href="https://github.com/vathansilva/README.md">
+      <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Vathan's GitHub stats" />
+    </a></td>
+  </tr>
+</table>
 
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <a href="https://github.com/vathansilva/github-readme-stats">
-    <img src="https://streak-stats.demolab.com/?user=vathansilva&theme=ambient_gradient" alt="Vathan's GitHub streak stats" />
-  </a>
-</div>
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/vathansilva/README.md">
+      <img src="https://streak-stats.demolab.com/?user=vathansilva&theme=ambient_gradient" alt="Vathan's GitHub stats" />
+    </a>
+  </div>
 
 
 <!---
