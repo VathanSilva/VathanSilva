@@ -14,11 +14,16 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/vathansilva/github-readme-stats">
+    <td><a href="https://github.com/vathansilva/README.md">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut&theme=ambient_gradient" alt="Top Langs" />
     </a></td>
-    <td><a href="https://github.com/vathansilva/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Anurag's GitHub stats" />
+    <td><a href="https://github.com/vathansilva/README.md">
+      <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Vathan's GitHub stats" />
+    </a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/vathansilva/README.md">
+      <img src="https://streak-stats.demolab.com/?user=vathansilva&theme=mbient_gradient" alt="Vathan's GitHub stats" />
     </a></td>
   </tr>
 </table>
