@@ -23,11 +23,11 @@
   </tr>
 </table>
 
-  <tr>
-    <td><a href="https://github.com/vathansilva/README.md">
+  <div style="display: flex; justify-content: center;">
+    <a href="https://github.com/vathansilva/README.md">
       <img src="https://streak-stats.demolab.com/?user=vathansilva&theme=ambient_gradient" alt="Vathan's GitHub stats" />
-    </a></td>
-  </tr>
+    </a>
+  </div>
 
 
 <!---
