@@ -9,7 +9,7 @@
 - 📫 How to reach me on https://www.linkedin.com/in/vathan-silva/
 - 📫 My website https://francissilva.vercel.app/
 - 📫 My Youtube channel https://www.youtube.com/channel/UCzWYas0cWXTT1YFgZQhLUyQ
-
+- 📧 Reach me on email at vathansilva@gmail.com
 
 
 ## My Stats:
