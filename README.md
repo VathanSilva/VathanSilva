@@ -17,19 +17,9 @@
     <td><a href="https://github.com/vathansilva/README.md">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut&theme=ambient_gradient" alt="Top Langs" />
     </a></td>
-    <td>
-      <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true" />
-</picture>
-    </td>
+   <td><a href="https://github.com/vathansilva/README.md">
+      <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Vathan's GitHub stats" />
+    </a></td>
   </tr>
 </table>
 
