@@ -10,8 +10,10 @@
 
 - My Stats:
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut)](https://github.com/vathansilva/github-readme-stats)     - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient)
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut)](https://github.com/vathansilva/github-readme-stats)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient)
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vathansilva&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 
 <!---
