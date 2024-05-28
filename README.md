@@ -18,7 +18,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut&theme=ambient_gradient" alt="Top Langs" />
     </a></td>
    <td><a href="https://github.com/vathansilva/README.md">
-      <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Vathan's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient&rank_icon=github" alt="Vathan's GitHub stats" />
     </a></td>
   </tr>
 </table>
