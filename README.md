@@ -21,12 +21,13 @@
       <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Vathan's GitHub stats" />
     </a></td>
   </tr>
+</table>
+
   <tr>
     <td><a href="https://github.com/vathansilva/README.md">
-      <img src="https://streak-stats.demolab.com/?user=vathansilva&theme=mbient_gradient" alt="Vathan's GitHub stats" />
+      <img src="https://streak-stats.demolab.com/?user=vathansilva&theme=ambient_gradient" alt="Vathan's GitHub stats" />
     </a></td>
   </tr>
-</table>
 
 
 <!---
