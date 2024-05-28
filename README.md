@@ -10,9 +10,22 @@
 
 
 
-- My Stats:
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=donut)](https://github.com/vathansilva/github-readme-stats)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient)
+## My Stats:
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="width: 48%;">
+    <h3>Top Languages</h3>
+    <a href="https://github.com/vathansilva/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=compact" alt="Top Langs" />
+    </a>
+  </div>
+  <div style="width: 48%;">
+    <h3>GitHub Stats</h3>
+    <a href="https://github.com/vathansilva/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=vathansilva&show_icons=true&theme=ambient_gradient" alt="Anurag's GitHub stats" />
+    </a>
+  </div>
+</div>
 
 
 <!---
