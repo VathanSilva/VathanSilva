@@ -31,8 +31,7 @@
     </a>
   </div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathansilva&layout=compact)
-
+  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vathansilva&limit=5)
 
 <!---
 VathanSilva/VathanSilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
