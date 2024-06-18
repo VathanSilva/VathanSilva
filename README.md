@@ -35,7 +35,7 @@
     </a>
     </td>
    <td><a href="https://github.com/vathansilva/README.md">
-      <img src="https://github-contributor-stats.vercel.app/api?username=vathansilva&theme=ambient_gradient" alt="Vathan's GitHub stats" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=vathansilva&limit=5&theme=ambient_gradient" alt="Vathan's GitHub stats" />
     </a></td>
   </tr>
 </table>
