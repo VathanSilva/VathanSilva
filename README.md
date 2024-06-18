@@ -1,5 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/D5616AQHL3odx-FtvSQ/profile-displaybackgr![1](https://github.com/VathanSilva/VathanSilva/assets/79276987/e9d8d258-5297-48d5-a990-5df88efe97fa)
-oundimage-shrink_350_1400/0/1715419805770?e=1722470400&v=beta&t=gjG-bK6q4zlNfGWozrbDb7nfT4Gm9CO12zHQBFDgMMg)
+![Banner](https://github.com/VathanSilva/VathanSilva/assets/79276987/403de3bb-8a6c-4bf4-a72e-483c2f57b6cf)
 
 ### 👋 Hi, I’m @VathanSilva
 
