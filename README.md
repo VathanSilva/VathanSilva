@@ -1,6 +1,6 @@
 ![Banner](https://github.com/VathanSilva/VathanSilva/assets/79276987/403de3bb-8a6c-4bf4-a72e-483c2f57b6cf)
 
-### 👋 Hi, I’m @VathanSilva
+## 👋 Hi, I’m @VathanSilva
 
 
 - 👀 I’m interested in App & Web development and IoT.
