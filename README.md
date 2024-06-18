@@ -24,7 +24,7 @@
     </a></td>
   </tr>
 </table>
-<div style="display: flex; justify-content: center;">
+
 <table>
   <tr>
     <td> 
@@ -36,13 +36,7 @@
       <img src="https://github-contributor-stats.vercel.app/api?username=vathansilva&limit=5&theme=ambient_gradient" alt="Vathan's GitHub stats" />
     </a></td>
   </tr>
-</table> </div>
-
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/vathansilva/README.md">
-      <img src="https://streak-stats.demolab.com/?user=vathansilva&theme=ambient_gradient" alt="Vathan's GitHub stats" />
-    </a>
-  </div>
+</table>
 
 [![](https://visitcount.itsvg.in/api?id=vathansilva&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!---
