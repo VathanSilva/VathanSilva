@@ -56,7 +56,7 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vathansilva)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vathansilva&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![](https://visitcount.itsvg.in/api?id=vathansilva&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!---
