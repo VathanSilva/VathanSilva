@@ -31,7 +31,7 @@
     </a>
   </div>
 
-  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vathansilva&limit=5)
+  ![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=vathansilva&limit=5&theme=ambient_gradient)
 
 [![](https://visitcount.itsvg.in/api?id=vathansilva&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!---
